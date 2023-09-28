@@ -4,7 +4,7 @@ This repository contains the implementation of a Graph Attention Network (GAT) d
 
 ## Data Source
 
-The data utilized for this project originates from the [Elliptic dataset](https://www.elliptic.co/our-thinking/elliptic-data-set). This dataset provides labeled transactional data for illicit and licit Bitcoin transactions, serving as an ideal benchmark for our model.
+The data utilized for this project originates from the [Elliptic dataset](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set). This dataset provides labeled transactional data for illicit and licit Bitcoin transactions, serving as an ideal benchmark for our model.
 
 ## Dependencies
 
